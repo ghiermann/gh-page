@@ -1,6 +1,7 @@
 import {Button, Card, CardActions, CardContent, Grid} from '@mui/material';
 import React from "react";
 import Typography from "@mui/material/Typography";
+import { useNavigate } from 'react-router-dom';
 
 import bib from "./data/bib.json"
 
@@ -33,13 +34,19 @@ const CustomCard = ({title, authors, journal, year, links} : {
 
 
 export default function Research() {
+    const navigate = useNavigate();
+
+    const navigateHome = () => {
+        navigate('/');
+    }
+
     return (
         <>
         <Grid container spacing={2}>
             <Grid key={`header-card-item`} item xs={12}>
                 <Button variant="outlined" href={'https://www.researchgate.net/profile/Gerhard_Hiermann'} target="_blank" rel="noopener">ResearchGate</Button>
                 <Button variant="outlined" href={'https://scholar.google.com/citations?user=pNqvMTkAAAAJ&hl=en'} target="_blank" rel="noopener">Google Scholar</Button>
-                <Button variant="outlined" href="#">back</Button>
+                <Button  variant="outlined" onClick={() => {navigateHome()}}>back</Button>
             </Grid>
             {bib.map((entry) => (
                 <Grid key={`${entry.title}-card-item`} item xs={12}>
