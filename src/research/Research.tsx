@@ -4,7 +4,13 @@ import Typography from "@mui/material/Typography";
 
 import bib from "./data/bib.json"
 
-const CustomCard = ({title, authors, journal, year, links}) => (
+const CustomCard = ({title, authors, journal, year, links} : {
+    title: string,
+    authors: string,
+    journal: string,
+    year: number,
+    links: { outlet: string, href: string }[]
+}) => (
     <Card sx={{ minWidth: 275 }} raised={true} key={`${title}-card`}>
         <CardContent>
             <Typography variant="h6" component="div">
