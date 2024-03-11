@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Electric Vehicle Charging Station Search in Stochastic Environments",
+    "authors": "Guillet, M., Hiermann, G., Kröller, A., and Schiffer, M.",
+    "journal": "Transportation Science",
+    "year": 2022,
+    "links": [
+      {
+        "outlet": "INFORMS",
+        "href": "https://pubsonline.informs.org/doi/10.1287/trsc.2021.1102"
+      }
+    ]
+  },
+  {
+    "title": "A polynomial-time algorithm for user-based relocation in free-floating car sharing systems",
+    "authors": "Schiffer, M., Hiermann, G., Rüdel, F., and Walther, G.",
+    "journal": "Transportation Research Part B: Methodology",
+    "year": 2021,
+    "links": [
+      {
+        "outlet": "ScienceDirect",
+        "href": "https://www.sciencedirect.com/science/article/pii/S0191261520304239"
+      }
+    ]
+  },
+  {
+    "title": "Sustainable city logistics via access restrictions? An impact assessment of city center policies",
+    "authors": "Hiermann, G., Hartl, R.F., Puchinger, J., Schiffer, M., and Vidal, T.",
+    "journal": "Working Paper (available online - Cahiers du Gerad)",
+    "year": 2019,
+    "links": [
+      {
+        "outlet": "Cahiers du Gerad",
+        "href": "https://www.gerad.ca/en/papers/G-2019-66"
+      }
+    ]
+  },
+  {
+    "title": "The Electric Fleet Size and Mix Vehicle Routing Problem with Time Windows and Recharging Stations",
+    "authors": "Hiermann, G., Puchinger, J., Ropke, S., and Hartl, R.F.",
+    "journal": "European Journal of Operational Research",
+    "year": 2016,
+    "links": [
+      {
+        "outlet": "ScienceDirect",
+        "href": "http://www.sciencedirect.com/science/article/pii/S0377221716000837"
+      }
+    ]
+  },
+  {
+    "title": "Metaheuristics for solving a multimodal home-healthcare scheduling problem",
+    "authors": "Hiermann, G., Prandtstetter, M., Rendl, A., Puchinger, J., and Raidl, G.R.",
+    "journal": "Central European Journal of Operations Research",
+    "year": 2015,
+    "links": [
+      {
+        "outlet": "Springer",
+        "href": "https://link.springer.com/article/10.1007%2Fs10100-013-0305-8"
+      }
+    ]
+  }
+]
