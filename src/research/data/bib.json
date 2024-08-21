@@ -1,5 +1,41 @@
 [
   {
+    "title": "A decomposition-based approach for large-scale pickup and delivery problems",
+    "authors": "Hiermann, G., and Schiffer, M.",
+    "journal": "arXiv preprint",
+    "year": 2024,
+    "links": [
+      {
+        "outlet": "arxiv",
+        "href": "https://arxiv.org/abs/2405.01410"
+      }
+    ]
+  },
+  {
+    "title": "Staggered Routing in Autonomous Mobility-on-Demand Systems",
+    "authors": "Coppola, A., Hiermann, G., Paccagnan, D., and Schiffer, M.",
+    "journal": "arXiv preprint",
+    "year": 2024,
+    "links": [
+      {
+        "outlet": "arxiv",
+        "href": "https://arxiv.org/abs/2311.17935"
+      }
+    ]
+  },
+  {
+    "title": "Strategic Workforce Planning in Crowdsourced Delivery with Hybrid Driver Fleets",
+    "authors": "Luy, J., Hiermann, G., and Schiffer, M.",
+    "journal": "arXiv preprint",
+    "year": 2023,
+    "links": [
+      {
+        "outlet": "arxiv",
+        "href": "https://arxiv.org/abs/2311.17935"
+      }
+    ]
+  },
+  {
     "title": "Electric Vehicle Charging Station Search in Stochastic Environments",
     "authors": "Guillet, M., Hiermann, G., Kröller, A., and Schiffer, M.",
     "journal": "Transportation Science",
